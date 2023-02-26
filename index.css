@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Quicksand;
+  src: url(Quicksand-VariableFont_wght.ttf);
+}
+
+body {
+    background-color: #fdf5e7;
+    color: hsl(63, 100%, 83%);
+    line-height: 1.5;
+    font-family: 'Quicksand',sans-serif;
+  }
